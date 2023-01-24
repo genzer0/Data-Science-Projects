@@ -12,3 +12,10 @@ git add .
 git status
 git commit -m "first commit"
 git status
+git status
+git add -A
+git status
+git commit
+git status
+git commit -m "renamed files and did EDA"
+git status
