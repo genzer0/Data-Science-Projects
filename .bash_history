@@ -19,3 +19,14 @@ git commit
 git status
 git commit -m "renamed files and did EDA"
 git status
+git status
+git commit -m "transformed lat and long into DD format. created power bi for visualization."
+git commit -a -m "transformed lat and long into DD format. created power bi for visualization."
+git status
+git add -A
+git status
+git commit -a -m "adding power bi file and transformed data"
+git status
+git remote add origin https://github.com/genzer0/Data-Science-Projects.git
+git branch -M main
+git push -u origin main
