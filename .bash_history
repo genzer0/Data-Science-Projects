@@ -30,3 +30,8 @@ git status
 git remote add origin https://github.com/genzer0/Data-Science-Projects.git
 git branch -M main
 git push -u origin main
+git status
+git add -A
+git commit -m "added toyota vios 2nd hand market data"
+git status
+git push
