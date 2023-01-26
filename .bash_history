@@ -35,3 +35,10 @@ git add -A
 git commit -m "added toyota vios 2nd hand market data"
 git status
 git push
+git status
+git add -A
+git status
+git commit -a -m "renamed files and finished part 3 ML model"
+git status
+git push
+git status
