@@ -21,16 +21,32 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	e
+|3,1,36,0,1,0,1674754322,"e"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1674540178,"~/.git/COMMIT_EDITMSG"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1674754331,"~/.git/MERGE_MSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1674540178,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1674754331,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1674540178,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1674540178,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1674754329	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1674540165	0

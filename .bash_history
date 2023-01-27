@@ -42,3 +42,15 @@ git commit -a -m "renamed files and finished part 3 ML model"
 git status
 git push
 git status
+git status
+git status
+git add -A
+git commit -a -m "added superstore sales dashboard"
+git push
+git status
+git push
+git status
+git push
+git pull
+git status
+git push
