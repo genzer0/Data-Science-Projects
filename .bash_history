@@ -54,3 +54,4 @@ git push
 git pull
 git status
 git push
+git remote -v
